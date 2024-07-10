@@ -1,0 +1,6 @@
+Santos,Bahía Blanca,7,3
+Bahía Blanca,BSAS,20,1
+BSAS,Rosario,5,2
+Rosario,Santos,5,1
+Santos,BSAS,6,2
+Bahía Blanca,Rosario,4,1
